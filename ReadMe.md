@@ -5,3 +5,5 @@ For this repository, I will be learning Python3 from **CROOKSHANKS ACADEMY**'s P
 I am excited to learn a lot from this course, and hopefully, I will be able to create a fun project from what I learned
 as well!!
 
+![image](python_certificate-1.png)
+
